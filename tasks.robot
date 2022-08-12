@@ -5,7 +5,7 @@ Library           RPA.Dialogs
 *** Keywords ***
 My Dialog Box
     Add heading    Local Dialog Box
-    Add text    Hello World, I'm not the sub-module box!
+    Add text    Hello World, I'm not the sub-module box! But I am imported from GitHub!!
     Run dialog
 
 *** Keywords ***
